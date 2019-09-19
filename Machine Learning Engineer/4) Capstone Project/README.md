@@ -1,27 +1,37 @@
-# MLND_Capstone
-Capstone project for Machine learning Nanodegree at Udacity
+# MLND Capstone
+Capstone for Udacity's Machine Learning Nanodegree
 
-## Introduction
+## Finding pairs of duplicate questions
+This project is taken from the Kaggle platform, and is currently available under the name Quora
+Question Pairs in this link: https://www.kaggle.com/c/quora-question-pairs. Quora is a platform where
+anyone can make a question, and other users give answers. According to Quora, they receive over 100
+million visits every month, so it's very common that the question someone asks has already been
+answered by others. In order to make it easier for someone to find an answer, they use a Random Forest
+model to identify duplicate questions.
+This project is about finding a model that can determine whether a pair of questions has the same
+meaning or not. The input data is a data set of about 400,000 pair of questions with a human provided
+label stating if they have the same meaning. As for testing, Kaggle provides a set of unlabeled pairs,
+which are then compared to their own human labeled results.
 
-Quora is a popular website where people can ask and answer all kinds of questions. However, a lot of times people as similar or almost identical questions, which make searching for the best answer difficult.
-In this project, I have developed a supervised learning algorithm to detect duplicate questions on Quora.
+## Datasets
+The necessary datasets for this project can be found in the webpage of the Kaggle's project, which is
+the following: https://www.kaggle.com/c/quora-question-pairs/data under the names _train.csv.zip_ and 
+_test.csv.zip_. Both of them should be put in a folder called _data_
 
-## Required Libary
- - numpy
- - pandas
- - wordcloud
- - sklearn
- - matplotlib
- - os
- - collections
- - xgboost
- - graphviz
+## Code
+All the necessary Python code used for this project can be found in the file named _MLND-Capstone.ipynb_.
 
- ## Running
- All the run scripts are in capstone.ipynb file.
-
- ## Data
- Both training data and test data are available at [Kaggle Quora Competition Website](https://www.kaggle.com/c/quora-question-pairs/data). Unfortunately they are too large to be stored in this repository.
-
- ## Final result
- Using XGboost model with 6 features I am getting logloss ~ 0.39.
+## Software requirements
+The following software is required to be installed in order to run the code:
+* Python 3.5 or higher
+* Scipy
+* Numpy + MKL
+* Pandas
+* Matplotlib
+* Tqdm
+* Nltk (Natural Language ToolKit)
+* Sklearn
+* XGBoost (The instructions for installing this library are found here: 
+http://xgboost.readthedocs.io/en/latest/build.html. When importing, the
+path should be changed. In the iPython Notebook it can be found under the
+name _mingw_path_)
