@@ -2,8 +2,8 @@
 List of All My Nano Degrees and Projects with complete solutions, Project rubric and certification
 # Artificial Intellegence with Python
 [Click here to view my certification](https://graduation.udacity.com/nd089)
-1) Dogbreed Classifier                      [Rubric]()    [repo](https://github.com/reuban-zacker/udacity-school-of-AI/tree/master/AI%20programming%20with%20python/Dogbreed%20Classifier) 
-2) Flower Classifier                        [Rubric]    [repo](https://github.com/reuban-zacker/udacity-school-of-AI/tree/master/AI%20programming%20with%20python/Flower%20Classifier)
+1) Dogbreed Classifier                      [Rubric](https://github.com/reuban-zacker/udacity-school-of-AI/blob/master/AI%20programming%20with%20python/Dogbreed%20Classifier/Udacity%20Reviews.pdf)    [repo](https://github.com/reuban-zacker/udacity-school-of-AI/tree/master/AI%20programming%20with%20python/Dogbreed%20Classifier) 
+2) Flower Classifier                        [Rubric](https://github.com/reuban-zacker/udacity-school-of-AI/blob/master/AI%20programming%20with%20python/Flower%20Classifier/Udacity%20Reviews.pdf)    [repo](https://github.com/reuban-zacker/udacity-school-of-AI/tree/master/AI%20programming%20with%20python/Flower%20Classifier)
 # Artificial Intellegence Nano Degree
 [Click here to view my certification](https://graduation.udacity.com/nd898)
 
