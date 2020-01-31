@@ -1,5 +1,5 @@
 # udacity-school-of-AI
-List of All My Nano Degrees and Projects
+List of All My Nano Degrees and Projects with complete solutions, Project rubric and certification
 # Artificial Intellegence with Python
 [Click here to view my certification](https://graduation.udacity.com/nd089)
 1) Dogbreed Classifier
@@ -36,6 +36,7 @@ List of All My Nano Degrees and Projects
 17) Capestone Project
 # Deep Learning Nano Degree
 [Click here to view my certification](https://graduation.udacity.com/nd101)
+
 18) Predict Bike Sharing Data
 01) Dogbreed Classifier
 19) Generate TV Script
