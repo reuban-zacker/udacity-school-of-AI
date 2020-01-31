@@ -6,6 +6,7 @@ List of All My Nano Degrees and Projects
 2) Flower Classifier
 # Artificial Intellegence Nano Degree
 [Click here to view my certification](https://graduation.udacity.com/nd898)
+
 3) Build a Sudoku Solver
 4) Build a Forward-Planning Agent
 5) Build an Adversarial Game Playing Agent
