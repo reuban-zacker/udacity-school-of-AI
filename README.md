@@ -13,17 +13,20 @@ List of All My Nano Degrees and Projects
 6) Part of Sppech Tagging
 # Machine Learning Foundation
 [Click here to view my certification](https://graduation.udacity.com/nd229)
+
 7) Finding Donors for CharityML
 8) Create your Own Image Classifier
 9) Creating Customer Segments with Arvato
 # Machine Learning Engineer Nano Degree
 [Click here to view my certification](https://graduation.udacity.com/nd009t)
+
 10) Deploy a sentiment Analysis Model
 11) Plagiarism Detector
 12) Capestone Proposal
 13) Capestone Project
 # Data Scientist Nano Degree
 [Click here to view my certification](https://graduation.udacity.com/nd025)
+
 7) Finding Donors for CharityML
 8) Create your Own Image Classifier
 9) Creating Customer Segments with Arvato
@@ -40,26 +43,30 @@ List of All My Nano Degrees and Projects
 21) Deploying Sentimental Analysis Model
 # Computer Vision Nano Degree
 [Click here to view my certification](https://graduation.udacity.com/nd891)
+
 22) Facial Keypoint Detection
 23) Image Captioning
 24) Landmark Detection @ Tracking(SLAM)
 # Natural Language Processing Nano Degree
 [Click here to view my certification](https://graduation.udacity.com/nd892)
+
 25) Part Of Speech Tagging
 26) Machine Translation
 27) DNN Speech Recognizer
 # Deep Reinforcement Learning Nano Degree
 [Click here to view my certification](https://graduation.udacity.com/nd893)
+
 28) Taxi-v2
 29) Navigation
 30) Continuous Control
 31) Colabration and Competition
 # Intro to Self Driving Car Nano Degree
 [Click here to view my certification](https://graduation.udacity.com/nd113)
+
 32) Finding Car Lanes
 33) Advance Lane Finding
 34) Traffic Sign Classifier
-# self Driving Car Nano Degree - Pending
+# Self Driving Car Nano Degree - Pending
 35) Finding Lane Lines
 36) Advance Lane Lines
 37) Traffic Sign Classifier
