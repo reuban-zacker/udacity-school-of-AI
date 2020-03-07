@@ -1,0 +1,3 @@
+/home/srijith/Linux_system_monitor/CppND-System-Monitor/build/CMakeFiles/rebuild_cache.dir
+/home/srijith/Linux_system_monitor/CppND-System-Monitor/build/CMakeFiles/monitor.dir
+/home/srijith/Linux_system_monitor/CppND-System-Monitor/build/CMakeFiles/edit_cache.dir
