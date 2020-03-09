@@ -5,11 +5,11 @@ This is the project repo for the final project of the Udacity Self-Driving Car N
 
 ## Team
 
-Anton Pechenko	forpost78@gmail.com  
-Kai Detlefsen	kai.detlefsen@gmx.de  
-Andrew Ayers	keeper63@cox.net  
-Muddassir Ahmed Khan	13beemahmed@seecs.edu.pk  
-Ng Fang Kiang	kiang.ng@hotmail.com  
+Alex Braga	alexbraga101@gmail.com 
+Cenyi Liu	cenyiliu@gmail.com  
+Zhiqian Chen	zqchen@ieee.org  
+Zinan Zhou	297501369@qq.com  
+Ruban santhosh Kumar	chrisbenzacker@gmail.com 
 
 ## Installation
 
